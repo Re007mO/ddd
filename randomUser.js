@@ -32,7 +32,7 @@ displayUserData()
   */
 async function displayUserData(){
     const display=await fetchRandomUserData();
-    console.log(`name:${display.name}
+    console.log(`name20:${display.name}
             Email:${display.email}`
     );
 
